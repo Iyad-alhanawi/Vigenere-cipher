@@ -18,7 +18,7 @@ Execute the script in your Python environment.
 
 ### Input
 - For encryption: Enter the plaintext and a key.
-- For decryption: Enter the ciphertext and the same key used for encryption.
+- For decryption: Enter the ciphertext and a key.
 
 ### Output
 The program will display the encrypted or decrypted text.
