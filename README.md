@@ -17,7 +17,7 @@ Execute the script in your Python environment.
 - Type `decryption` to decrypt text.
 
 ### Input
-- For encryption: Enter the plaintext and a key (lowercase letters only).
+- For encryption: Enter the plaintext and a key.
 - For decryption: Enter the ciphertext and the same key used for encryption.
 
 ### Output
